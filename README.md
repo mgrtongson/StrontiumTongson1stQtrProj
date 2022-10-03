@@ -102,3 +102,59 @@ This time, Yosho will teach you about how witnesses become the foundation of rep
 
                 Otherwise, click on any of the people to get to know each topic more.
 [Image of Colin; Link: colininternet.html] [Image of Yosho] [Image of Gabiley; Link: gabileytrends.html] [Image of Fenworth; Link: fenworthskeptic.html] [Image of Kelly; Link: kellyhands.html]
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <style>
+    h1 {
+      background-color:lightblue;
+      font-size:25px;
+      text-align:center;
+      color:darkgray;
+      font-family:"Sitka Small";
+    }
+    h2 {
+      background-color: lightblue;
+      font-size:18px;
+      text-align:center;
+      color:darkcyan;
+      font-family:"Trebuchet MS";
+    }
+
+    p {
+      background-color:lightgray;
+      font-size:15px;
+      text-shadow: 1px 1px yellowgreen;
+      text-align:left;
+      color:black;
+      opacity:0.9;
+      font-family:"Century Gothic";
+    }
+  </style>
+    
+    <h1>Welcome to the home of Maliwagnag!</h1>
+    <br>
+    <p>The internet is a very strange place indeed, it is filled with mysterious and yet potentially malicious content, causing a tough dillemma on a person's decisions on what to trust.</p>
+    <br>
+    <p>Trust in short is crucial for any internet user because it may impact their experiences on connecting with others and it could strengthen or weaken the ability for one to do so here.</p>
+    <br>
+    <p>Millions of accounts every year unfortunately get trapped into several internet holes such as trusting news resources. It is now very easy for misinformation to spread due to put simply how simple of a couple of clicks could bring about to so many people to get tricked.</p>
+    <br>
+    <p>Fortunately, you are just in the right place for any such sticky situation: The home of the Maliwagnag family.</p>
+    <br>
+    <p>Meet each of the 5 members of this family who are of expertise when it comes to analyzing internet resources and how reliable or scamming each one found can turn out.</p>
+    <h2>What are you waiting for? Click any of their icons to bring a revolutionary change to your trust ability for efficient security.</h1>
+    
+</body>
+
+</html>
